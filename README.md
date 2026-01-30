@@ -35,7 +35,7 @@
 - 🧮 **SciPy**👉 ![SciPy](https://img.shields.io/badge/SciPy-2962FF?style=for-the-badge&logo=scipy&logoColor=white) [🌐Official Website](https://scipy.org/)  [📘 Documentation](https://docs.scipy.org/doc/scipy/)
 
 
-- 📈 **Plotly** 👉 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) [🌐Official Website](https://plotly.com/)  [📘 Documentation](https://github.com/plotly/plotly.py)
+- 📈 **Plotly** 👉 ![Plotly](https://img.shields.io/badge/Plotly-7C4DFF?style=for-the-badge&logo=plotly&logoColor=white) [🌐Official Website](https://plotly.com/)  [📘 Documentation](https://github.com/plotly/plotly.py)
 
   
 - 📊 **Scikit-Learn** 👉 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
