@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=10%20PYTHON%20AI%20LIBRARIES&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=PYTHON%20AI%20LIBRARIES&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 ---
