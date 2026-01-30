@@ -104,7 +104,15 @@ A comprehensive Python AI/ML repository covering end-to-end workflows using Tens
 ## 10. NumPy
 - The foundation of scientific computing in Python, providing fast numerical arrays and tensor operations used by almost all ML libraries.
 
-  
+## 11. Matplotlib
+- Core visualization library in Python used to create static, animated, and interactive plots for data exploration, analysis, and model evaluation.
+
+## 12. SciPy
+- Built on NumPy, it provides advanced scientific and mathematical functions for optimization, statistics, signal processing, linear algebra, and numerical integration.
+
+## 13. Plotly
+- An interactive visualization library for building rich, web-based charts and dashboards, widely used for data storytelling, analytics, and real-time visual insights.
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
