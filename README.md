@@ -98,6 +98,25 @@
 
 # Deep Learning for Computer Vision Library (Industry-Grade CV Stack : OpenCV + PyTorch + TorchVision + YOLO + Albumentations + ONNX + TensorRT )
 
+## ✅ Computer Vision Libraries – Official Resources
+
+| Library | 🌐 Official Website | 📘 Documentation |
+|-------|--------------------|------------------|
+| OpenCV | https://opencv.org/ | https://docs.opencv.org/ |
+| scikit-image | https://scikit-image.org/ | https://scikit-image.org/docs/ |
+| Pillow (PIL) | https://python-pillow.org/ | https://pillow.readthedocs.io/ |
+| Dlib | https://dlib.net/ | https://dlib.net/python/ |
+| Ultralytics YOLO | https://docs.ultralytics.com/ | https://docs.ultralytics.com/ |
+| Detectron2 | https://detectron2.readthedocs.io/ | https://detectron2.readthedocs.io/ |
+| TorchVision | https://pytorch.org/vision/ | https://pytorch.org/vision/stable/ |
+| TensorFlow Object Detection API | https://tensorflow-object-detection-api-tutorial.readthedocs.io/ | Same as website |
+| KerasCV | https://keras.io/keras_cv/ | https://keras.io/ |
+| MediaPipe | https://ai.google.dev/edge/mediapipe/ | https://mediapipe.readthedocs.io/ |
+| ONNX Runtime | https://onnxruntime.ai/ | https://onnxruntime.ai/docs/ |
+| TensorRT | https://developer.nvidia.com/tensorrt | https://docs.nvidia.com/deeplearning/tensorrt/ |
+| OpenVINO | https://intel.com/openvino | https://docs.openvino.ai/ |
+
+
 ### 👁️‍🗨️ Core Computer Vision Libraries 
 
 - OpenCV – Image processing, video analysis, classic CV
