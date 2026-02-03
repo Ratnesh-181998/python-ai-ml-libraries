@@ -98,7 +98,7 @@
 
 # Deep Learning for Computer Vision Library
 
-##👁️‍🗨️ Core Computer Vision Libraries 
+### 👁️‍🗨️ Core Computer Vision Libraries 
 
 - OpenCV – Image processing, video analysis, classic CV
 
@@ -108,7 +108,7 @@
 
 - SimpleCV – Easy CV prototyping (built on OpenCV)
 
-## 🧠 Deep Learning–Based CV Libraries
+###  🧠 Deep Learning–Based CV Libraries
 
 - Ultralytics YOLO (v5/v8/v11) – Real-time object detection & segmentation
 
@@ -124,7 +124,7 @@
 
 - TF Object Detection API – Google’s production-grade detection
 
-## 🧩 Vision Pipelines & Classical + DL Hybrid
+###  🧩 Vision Pipelines & Classical + DL Hybrid
 
 - MediaPipe – Face, hand, pose, holistic tracking (Google)
 
@@ -136,7 +136,7 @@
 
 - InsightFace – Face recognition at scale
 
-## 🖼️ Image Augmentation Libraries
+###  🖼️ Image Augmentation Libraries
 
 - Albumentations – Fast & powerful image augmentation
 
@@ -144,7 +144,7 @@
 
 - AugLy – Meta’s multimodal augmentation toolkit
 
-## 🎥 Video & Streaming CV
+###  🎥 Video & Streaming CV
 
 - FFmpeg – Video decoding, encoding, streaming
 
@@ -152,7 +152,7 @@
 
 - PyAV – Pythonic FFmpeg bindings
 
-## 🚀 High-Performance / GPU-Accelerated CV
+###  🚀 High-Performance / GPU-Accelerated CV
 
 - NVIDIA CUDA – GPU acceleration
 
@@ -166,7 +166,7 @@
 
 - TVM – Deep learning compiler stack
 
-## 🧪 Research-Oriented CV Libraries
+###  🧪 Research-Oriented CV Libraries
 
 - Kornia – Differentiable CV for PyTorch
 
@@ -174,7 +174,7 @@
 
 - Lightly – Self-supervised learning for CV
 
-## 📷 3D Vision / Geometry / SLAM
+###  📷 3D Vision / Geometry / SLAM
 
 - Open3D – 3D data processing
 
@@ -184,7 +184,7 @@
 
 - ORB-SLAM – Visual SLAM systems
 
-## 🤖 Robotics + Vision
+###  🤖 Robotics + Vision
 
 - ROS Vision Packages – CV in robotics
 
