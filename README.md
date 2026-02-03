@@ -77,10 +77,14 @@
 - 🧩 **spaCy** 👉 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 [🌐Official Website](https://spacy.io/)  [📘 Documentation](https://github.com/explosion/spacy-layout)
 
-## Deep Learning for Computer Vision 
+## Deep Learning for Computer Vision Library
 
 - **YOLO Algorithm** 👉 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-FFD21E?style=for-the-badge&logo=opencv&logoColor=black)
 [🌐Official Website](https://docs.ultralytics.com/)  [📘 Documentation](https://docs.ultralytics.com/solutions/)
+
+-  **OpenCV** 👉 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) [🌐Official Website](https://opencv.org/)  [📘 Documentation](https://docs.opencv.org/4.x/)
+-   **CUDA** 👉 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) [🌐Official Website](https://developer.nvidia.com/cuda)  [📘 Documentation](https://developer.nvidia.com/cuda/toolkit)
+
 
 ---
 
