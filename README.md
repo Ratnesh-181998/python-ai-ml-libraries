@@ -90,9 +90,99 @@
 
 <img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
 
+---
+
+#  Libraries
+
 <img width="992" height="761" alt="image" src="https://github.com/user-attachments/assets/fc4e290d-5796-4695-a25a-172a6c619e81" />
 
 <img width="813" height="1122" alt="image" src="https://github.com/user-attachments/assets/9dc41915-59eb-4193-8154-48803dc8ecf4" />
+
+##🔹 Data Science Libraries
+
+#### 1️⃣ NumPy
+- Official Website: https://numpy.org/
+- Documentation: https://numpy.org/doc/
+#### 2️⃣ Seaborn
+- Official Website: https://seaborn.pydata.org/
+- Documentation: https://seaborn.pydata.org/tutorial.html
+#### 3️⃣ Pandas
+- Official Website: https://pandas.pydata.org/
+- Documentation: https://pandas.pydata.org/docs/
+#### 4️⃣ Bokeh
+- Official Website: https://bokeh.org/
+- Documentation: https://docs.bokeh.org/
+#### 5️⃣ SciPy
+- Official Website: https://scipy.org/
+- Documentation: https://docs.scipy.org/doc/scipy/
+#### 6️⃣ Plotly
+- Official Website: https://plotly.com/python/
+- Documentation: https://plotly.com/python/getting-started/
+#### 7️⃣ Matplotlib
+- Official Website: https://matplotlib.org/
+- Documentation: https://matplotlib.org/stable/users/index.html
+#### 8️⃣ Dask
+- Official Website: https://www.dask.org/
+- Documentation: https://docs.dask.org/
+  
+________________________________________
+
+## 🔹 Machine Learning Libraries
+
+#### 9️⃣ Scikit-learn
+- Official Website: https://scikit-learn.org/
+- Documentation: https://scikit-learn.org/stable/user_guide.html
+#### 🔟 LightGBM
+- Official Website: https://lightgbm.readthedocs.io/
+- Documentation: https://lightgbm.readthedocs.io/en/latest/
+#### 1️⃣1️⃣ OpenAI Gym
+- Official Website: https://www.gymlibrary.dev/
+- Documentation: https://www.gymlibrary.dev/content/basic_usage/
+#### 1️⃣2️⃣ PyTorch
+- Official Website: https://pytorch.org/
+- Documentation: https://pytorch.org/docs/stable/index.html
+#### 1️⃣3️⃣ CatBoost
+- Official Website: https://catboost.ai/
+- Documentation: https://catboost.ai/en/docs/
+#### 1️⃣4️⃣ TensorFlow
+- Official Website: https://www.tensorflow.org/
+- Documentation: https://www.tensorflow.org/learn
+#### 1️⃣5️⃣ XGBoost
+- Official Website: https://xgboost.readthedocs.io/
+- Documentation: https://xgboost.readthedocs.io/en/stable/
+#### 1️⃣6️⃣ Keras
+- Official Website: https://keras.io/
+- Documentation: https://keras.io/guides/
+  
+________________________________________
+
+## 🔹 Generative AI / Deep Learning Frameworks
+
+#### 1️⃣7️⃣ GLM (General Language Model)
+- Official Website (THUDM GLM): https://github.com/THUDM/GLM
+- Documentation: https://github.com/THUDM/GLM
+#### 1️⃣8️⃣ JAX
+- Official Website: https://jax.readthedocs.io/
+- Documentation: https://jax.readthedocs.io/en/latest/
+#### 1️⃣9️⃣ Pyro
+- Official Website: https://pyro.ai/
+- Documentation: https://docs.pyro.ai/
+#### 2️⃣0️⃣ Flax
+- Official Website: https://flax.readthedocs.io/
+- Documentation: https://flax.readthedocs.io/en/latest/
+#### 2️⃣1️⃣ NeRF
+- Official Paper: https://arxiv.org/abs/2003.08934
+- Common Implementation: https://github.com/bmild/nerf
+#### 2️⃣2️⃣ DALL·E 2
+- Official Website: https://openai.com/dall-e-2
+- Documentation: https://platform.openai.com/docs/guides/images
+#### 2️⃣3️⃣ StyleGAN
+- Official NVIDIA Repo: https://github.com/NVlabs/stylegan3
+- Documentation: https://github.com/NVlabs/stylegan3
+#### 2️⃣4️⃣ Imagen
+- Official Paper: https://arxiv.org/abs/2205.11487
+
+
 
 ---
 
