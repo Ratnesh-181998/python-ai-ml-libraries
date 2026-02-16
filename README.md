@@ -98,7 +98,7 @@
 
 <img width="813" height="1122" alt="image" src="https://github.com/user-attachments/assets/9dc41915-59eb-4193-8154-48803dc8ecf4" />
 
-##🔹 Data Science Libraries
+## Data Science Libraries
 
 #### 1️⃣ NumPy
 - Official Website: https://numpy.org/
@@ -127,7 +127,7 @@
   
 ________________________________________
 
-## 🔹 Machine Learning Libraries
+##  Machine Learning Libraries
 
 #### 9️⃣ Scikit-learn
 - Official Website: https://scikit-learn.org/
@@ -156,7 +156,7 @@ ________________________________________
   
 ________________________________________
 
-## 🔹 Generative AI / Deep Learning Frameworks
+##  Generative AI / Deep Learning Frameworks
 
 #### 1️⃣7️⃣ GLM (General Language Model)
 - Official Website (THUDM GLM): https://github.com/THUDM/GLM
