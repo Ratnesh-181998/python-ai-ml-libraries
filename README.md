@@ -30,6 +30,7 @@
 - 🔢 **NumPy** 👉 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) [🌐Official Website](https://numpy.org/) [📘 Documentation](https://numpy.org/doc/)
 
 - 🐼 **Pandas** 👉 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) [🌐Official Website](https://pandas.pydata.org/)  [📘 Documentation](https://pandas.pydata.org/docs/)
+- https://python4csip.com/
 
 - 📊 **Matplotlib** 👉 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=python&logoColor=white) [🌐Official Website](https://matplotlib.org/)  [📘 Documentation](https://matplotlib.org/stable/users/index)
   
