@@ -106,6 +106,26 @@
 
 <img width="813" height="1122" alt="image" src="https://github.com/user-attachments/assets/9dc41915-59eb-4193-8154-48803dc8ecf4" />
 
+---
+
+# 10 Books that will make you a 10x AI engineer:
+
+### [10 Books](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/01-math-foundations/15-statistics-for-ml/docs/en.md)
+
+1 Building LLMs for Production
+2 AI Engineering
+3 Designing Machine Learning Systems
+4 Build a Large Language Model
+5 Designing Data-Intensive Applications
+6 LLM Engineer's Handbook
+7 Deep Learning
+8 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+9 Prompt Engineering for LLMs
+10 Introduction to Statistical Learning
+
+---
+
+
 ## Data Science Libraries
 
 #### 1️⃣ NumPy
