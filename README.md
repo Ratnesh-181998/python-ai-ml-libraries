@@ -44,6 +44,9 @@
 
 <img width="765" height="1156" alt="image" src="https://github.com/user-attachments/assets/a779da4c-e77b-4d2d-89c5-4167bd7a3846" />
 
+## THE PYTHON ECOSYSTEM 
+<img width="831" height="988" alt="image" src="https://github.com/user-attachments/assets/3b83477e-cd65-42a5-a7cb-fde4f47df86a" />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## Machine Learning Python Libraries
